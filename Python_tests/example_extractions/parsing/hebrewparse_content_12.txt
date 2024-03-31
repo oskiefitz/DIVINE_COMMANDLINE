@@ -1,0 +1,12 @@
+Conj-w &#124; V-Qal-ConjPerf-3ms: Conjunctive waw :: Verb - Qal - Conjunctive perfect - third person masculine singular
+Conj: Conjunction
+V-Qal-Imperf-3mp: Verb - Qal - Imperfect - third person masculine plural
+DirObjM &#124; 2fs: Direct object marker :: second person feminine singular
+Art &#124; N-proper-mp: Article :: Noun - proper - masculine plural
+Conj-w &#124; V-Qal-ConjPerf-3cp: Conjunctive waw :: Verb - Qal - Conjunctive perfect - third person common plural
+N-fsc &#124; 3ms: Noun - feminine singular construct :: third person masculine singular
+Pro-fs: Pronoun - feminine singular
+Conj-w &#124; V-Qal-ConjPerf-3cp: Conjunctive waw :: Verb - Qal - Conjunctive perfect - third person common plural
+DirObjM &#124; 1cs: Direct object marker :: first person common singular
+Conj-w &#124; DirObjM &#124; 2fs: Conjunctive waw :: Direct object marker :: second person feminine singular
+V-Piel-Imperf-3mp: Verb - Piel - Imperfect - third person masculine plural

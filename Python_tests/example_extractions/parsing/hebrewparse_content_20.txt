@@ -1,0 +1,12 @@
+Conj-w &#124; V-Piel-ConsecImperf-3ms: Conjunctive waw :: Verb - Piel - Consecutive imperfect - third person masculine singular
+Prep &#124; 3ms: Preposition :: third person masculine singular
+N-proper-ms: Noun - proper - masculine singular
+N-mp: Noun - masculine plural
+Conj-w &#124; V-Piel-ConsecImperf-3mp: Conjunctive waw :: Verb - Piel - Consecutive imperfect - third person masculine plural
+DirObjM &#124; 3ms: Direct object marker :: third person masculine singular
+Conj-w &#124; DirObjM: Conjunctive waw :: Direct object marker
+N-fsc &#124; 3ms: Noun - feminine singular construct :: third person masculine singular
+Conj-w &#124; DirObjM: Conjunctive waw :: Direct object marker
+N-msc: Noun - masculine singular construct
+Pro-r: Pronoun - relative
+Prep &#124; 3ms: Preposition :: third person masculine singular

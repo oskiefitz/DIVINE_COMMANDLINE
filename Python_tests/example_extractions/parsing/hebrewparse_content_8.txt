@@ -1,0 +1,20 @@
+Conj-w &#124; V-Hifil-ConsecImperf-3ms: Conjunctive waw :: Verb - Hifil - Consecutive imperfect - third person masculine singular
+Prep-m &#124; Adv: Preposition-m :: Adverb
+Art &#124; N-ms &#124; 3fs: Article :: Noun - masculine singular :: third person feminine singular
+Prep-m &#124; N-ms: Preposition-m :: Noun - masculine singular
+Prep: Preposition
+Prep &#124; N-proper-fs: Preposition :: Noun - proper - feminine singular
+Conj-w &#124; V-Qal-ConsecImperf-3ms: Conjunctive waw :: Verb - Qal - Consecutive imperfect - third person masculine singular
+N-msc &#124; 3ms: Noun - masculine singular construct :: third person masculine singular
+Prep: Preposition
+N-proper-fs: Noun - proper - feminine singular
+Prep-m &#124; N-ms: Preposition-m :: Noun - masculine singular
+Conj-w, Art &#124; N-proper-fs: Conjunctive waw, Article :: Noun - proper - feminine singular
+Prep-m &#124; N-ms: Preposition-m :: Noun - masculine singular
+Conj-w &#124; V-Qal-ConsecImperf-3ms: Conjunctive waw :: Verb - Qal - Consecutive imperfect - third person masculine singular
+Adv: Adverb
+N-ms: Noun - masculine singular
+Prep-l &#124; N-proper-ms: Preposition-l :: Noun - proper - masculine singular
+Conj-w &#124; V-Qal-ConsecImperf-3ms: Conjunctive waw :: Verb - Qal - Consecutive imperfect - third person masculine singular
+Prep-b &#124; N-msc: Preposition-b :: Noun - masculine singular construct
+N-proper-ms: Noun - proper - masculine singular

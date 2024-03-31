@@ -1,0 +1,26 @@
+Conj-w &#124; V-Qal-ConsecImperf-3ms: Conjunctive waw :: Verb - Qal - Consecutive imperfect - third person masculine singular
+N-proper-ms: Noun - proper - masculine singular
+DirObjM: Direct object marker
+N-proper-fs: Noun - proper - feminine singular
+N-fsc &#124; 3ms: Noun - feminine singular construct :: third person masculine singular
+Conj-w &#124; DirObjM: Conjunctive waw :: Direct object marker
+N-proper-ms: Noun - proper - masculine singular
+N-msc: Noun - masculine singular construct
+N-msc &#124; 3ms: Noun - masculine singular construct :: third person masculine singular
+Conj-w &#124; DirObjM: Conjunctive waw :: Direct object marker
+N-msc: Noun - masculine singular construct
+N-msc &#124; 3mp: Noun - masculine singular construct :: third person masculine plural
+Pro-r: Pronoun - relative
+V-Qal-Perf-3cp: Verb - Qal - Perfect - third person common plural
+Conj-w &#124; DirObjM: Conjunctive waw :: Direct object marker
+Art &#124; N-fs: Article :: Noun - feminine singular
+Pro-r: Pronoun - relative
+V-Qal-Perf-3cp: Verb - Qal - Perfect - third person common plural
+Prep-b &#124; N-proper-fs: Preposition-b :: Noun - proper - feminine singular
+Conj-w &#124; V-Qal-ConsecImperf-3mp: Conjunctive waw :: Verb - Qal - Consecutive imperfect - third person masculine plural
+Prep-l &#124; V-Qal-Inf: Preposition-l :: Verb - Qal - Infinitive construct
+N-fs &#124; 3fs: Noun - feminine singular :: third person feminine singular
+N-proper-ms: Noun - proper - masculine singular
+Conj-w &#124; V-Qal-ConsecImperf-3mp: Conjunctive waw :: Verb - Qal - Consecutive imperfect - third person masculine plural
+N-fs &#124; 3fs: Noun - feminine singular :: third person feminine singular
+N-proper-ms: Noun - proper - masculine singular

@@ -1,0 +1,13 @@
+Interrog: Interrogative
+V-Qal-Perf-2ms: Verb - Qal - Perfect - second person masculine singular
+N-fsc &#124; 1cs: Noun - feminine singular construct :: first person common singular
+Pro-3fs: Pronoun - third person feminine singular
+Conj-w &#124; V-Qal-ConsecImperf-1cs: Conjunctive waw :: Verb - Qal - Consecutive imperfect - first person common singular
+DirObjM &#124; 3fs: Direct object marker :: third person feminine singular
+Prep &#124; 1cs: Preposition :: first person common singular
+Prep-l &#124; N-fs: Preposition-l :: Noun - feminine singular
+Conj-w &#124; Adv: Conjunctive waw :: Adverb
+Interjection: Interjection
+N-fsc &#124; 2ms: Noun - feminine singular construct :: second person masculine singular
+V-Qal-Imp-ms: Verb - Qal - Imperative - masculine singular
+Conj-w &#124; V-Qal-Imp-ms: Conjunctive waw :: Verb - Qal - Imperative - masculine singular
