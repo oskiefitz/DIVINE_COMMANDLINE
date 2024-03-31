@@ -27,6 +27,6 @@ for i, url in enumerate(urls, start=1):
     scraped_content = scrape_hebrewparse_page(url)
 
     if scraped_content:
-        file_name = f"hebrewparse_content_{i}.txt"
+        file_name = f"Genesis12-{i}_PARSED.txt"
         save_to_file(scraped_content, file_name)
 
