@@ -2,6 +2,7 @@ import re
 from urllib.request import urlopen
 
 def extract_hebrew_text(html_content):   
+    # for biblehub we only need the hebrew of the main body of the page, i.e Biblica Hebraica Stuttgartensia version text, above the Hebrew Texts div class : won't apply for Quran verse extraction
     div_position = html_content.find('<div class="vheading2">Hebrew Texts</div>')
     if div_position != -1:  
         content_before_div = html_content[:div_position] 
