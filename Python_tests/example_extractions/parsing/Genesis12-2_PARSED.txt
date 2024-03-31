@@ -1,0 +1,8 @@
+Conj-w &#124; V-Qal-ConjImperf.h-1cs &#124; 2ms: Conjunctive waw :: Verb - Qal - Conjunctive imperfect Cohortative if contextual - first person common singular :: second person masculine singular
+Prep-l &#124; N-ms: Preposition-l :: Noun - masculine singular
+Adj-ms: Adjective - masculine singular
+Conj-w &#124; V-Piel-ConjImperf.h-1cs &#124; 2ms: Conjunctive waw :: Verb - Piel - Conjunctive imperfect Cohortative if contextual - first person common singular :: second person masculine singular
+Conj-w &#124; V-Piel-ConjImperf.Cohort-1cs: Conjunctive waw :: Verb - Piel - Conjunctive imperfect Cohortative - first person common singular
+N-msc &#124; 2ms: Noun - masculine singular construct :: second person masculine singular
+Conj-w &#124; V-Qal-Imp-ms: Conjunctive waw :: Verb - Qal - Imperative - masculine singular
+N-fs: Noun - feminine singular

@@ -1,0 +1,17 @@
+Conj-w &#124; V-Qal-ConsecImperf-3ms: Conjunctive waw :: Verb - Qal - Consecutive imperfect - third person masculine singular
+Prep-k &#124; Pro-r: Preposition-k :: Pronoun - relative
+V-Hifil-Perf-3ms: Verb - Hifil - Perfect - third person masculine singular
+Prep-l &#124; V-Qal-Inf: Preposition-l :: Verb - Qal - Infinitive construct
+N-proper-fs &#124; 3fs: Noun - proper - feminine singular :: third person feminine singular
+Conj-w &#124; V-Qal-ConsecImperf-3ms: Conjunctive waw :: Verb - Qal - Consecutive imperfect - third person masculine singular
+Prep: Preposition
+N-proper-fs: Noun - proper - feminine singular
+N-fsc &#124; 3ms: Noun - feminine singular construct :: third person masculine singular
+Interjection: Interjection
+Interjection: Interjection
+V-Qal-Perf-1cs: Verb - Qal - Perfect - first person common singular
+Conj: Conjunction
+N-fs: Noun - feminine singular
+Adj-fsc: Adjective - feminine singular construct
+N-ms: Noun - masculine singular
+Pro-2fs: Pronoun - second person feminine singular

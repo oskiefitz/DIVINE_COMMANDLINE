@@ -1,0 +1,12 @@
+Conj-w, Prep-l &#124; N-proper-ms: Conjunctive waw, Preposition-l :: Noun - proper - masculine singular
+V-Hifil-Perf-3ms: Verb - Hifil - Perfect - third person masculine singular
+Prep-b &#124; N-msc &#124; 3fs: Preposition-b :: Noun - masculine singular construct :: third person feminine singular
+Conj-w &#124; V-Qal-ConsecImperf-3ms: Conjunctive waw :: Verb - Qal - Consecutive imperfect - third person masculine singular
+Prep &#124; 3ms: Preposition :: third person masculine singular
+N-fs: Noun - feminine singular
+Conj-w &#124; N-ms: Conjunctive waw :: Noun - masculine singular
+Conj-w &#124; N-mp: Conjunctive waw :: Noun - masculine plural
+Conj-w &#124; N-mp: Conjunctive waw :: Noun - masculine plural
+Conj-w &#124; N-fp: Conjunctive waw :: Noun - feminine plural
+Conj-w &#124; N-fp: Conjunctive waw :: Noun - feminine plural
+Conj-w &#124; N-mp: Conjunctive waw :: Noun - masculine plural

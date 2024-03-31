@@ -1,0 +1,9 @@
+Conj-w &#124; V-Piel-ConjImperf.Cohort-1cs: Conjunctive waw :: Verb - Piel - Conjunctive imperfect Cohortative - first person common singular
+V-Piel-Prtcpl-mpc &#124; 2ms: Verb - Piel - Participle - masculine plural construct :: second person masculine singular
+Conj-w &#124; V-Piel-Prtcpl-msc &#124; 2ms: Conjunctive waw :: Verb - Piel - Participle - masculine singular construct :: second person masculine singular
+V-Qal-Imperf-1cs: Verb - Qal - Imperfect - first person common singular
+Conj-w &#124; V-Nifal-ConjPerf-3cp: Conjunctive waw :: Verb - Nifal - Conjunctive perfect - third person common plural
+Prep &#124; 2ms: Preposition :: second person masculine singular
+N-msc: Noun - masculine singular construct
+N-fpc: Noun - feminine plural construct
+Art &#124; N-fs: Article :: Noun - feminine singular
