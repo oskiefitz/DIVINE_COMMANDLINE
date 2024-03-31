@@ -1,6 +1,0 @@
-Conj-w &#124; V-Qal-ConsecImperf-3ms: Conjunctive waw :: Verb - Qal - Consecutive imperfect - third person masculine singular
-N-proper-ms: Noun - proper - masculine singular
-V-Qal-InfAbs: Verb - Qal - Infinitive absolute
-Conj-w &#124; V-Qal-InfAbs: Conjunctive waw :: Verb - Qal - Infinitive absolute
-Art &#124; N-proper-fs &#124; 3fs: Article :: Noun - proper - feminine singular :: third person feminine singular
-Punc: Punctuation
