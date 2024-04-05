@@ -2,8 +2,8 @@
 
 ## VERSE DATA
 
-The verses data looks like this, extracted from Biblehub.com to .txt files
-E.G. Genesis 1:1 - look from right to left, it's Hebrew text  
+The verses data looks like this, extracted from Biblehub.com to .txt files\ 
+e.g. Genesis 1:1 - look from right to left, it's Hebrew text  
 
 
 בְּרֵאשִׁ֖ית
