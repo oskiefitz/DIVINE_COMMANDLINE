@@ -13,6 +13,8 @@ E.G. Genesis 1:1 - look from right to left, it's Hebrew text
 וְאֵ֥ת
 הָאָֽרֶץ׃
 
+
+
 Each word from the verse is printed in a list, the list is in order. So this verse reads [ ת  1 בְּרֵאשִׁ֖ית  2 בָּרָ֣א  3 אֱלֹהִ֑ים 4 אֵ֥ת 5 הַשָּׁמַ֖יִם 6 וְאֵ֥ת  7 הָאָֽרֶץ׃]  // ignore the ת 
 
 There are about 6000 verses , each filing path for this verse would be ~/Bible/Genesis/Chapter_1/Genesis_Chapter_1_Verse_1.txt ;
