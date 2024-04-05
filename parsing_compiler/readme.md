@@ -57,7 +57,7 @@ Notice here in this path there's no Chapter folder in the path -- I forgot to ad
   Create sentences from the list, then insert the parsing data to its asigned word. Like this above, where P is what is written on the PARSED file, i.e. for the first word from the right, P is "Prep-b &#124; N-fs: Preposition-b :: Noun - feminine singular" 
 It's tricky because it's right aligned, make sure you're UTF-8 , also consider U+200F RIGHT-TO-LEFT MARK (&rlm;). In UTF-8 it is E2 80 AF : I'm struggling to make it work atm..
 
-First thing to do is to make a script that prints the parsing info next to its asigned word, then after that, to make a script that does it for all 6000 verses using their file paths.
+First thing to do is to make a script that prints the parsing info next to its asigned word (using the files in this folder), then after that, to make a script that does it for all 6000 verses using their file paths.
 
 
 
