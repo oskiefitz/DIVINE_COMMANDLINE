@@ -13,7 +13,7 @@ e.g. Genesis 1:1 - look from right to left, it's Hebrew text
 אֵ֥ת\
 הַשָּׁמַ֖יִם\
 וְאֵ֥ת\
-הָאָֽרֶץ׃\
+הָאָֽרֶץ׃
 
 \\\\
 
