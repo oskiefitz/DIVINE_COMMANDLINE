@@ -1,0 +1,7 @@
+Prep-b &#124; N-fs: Preposition-b :: Noun - feminine singular
+V-Qal-Perf-3ms: Verb - Qal - Perfect - third person masculine singular
+N-mp: Noun - masculine plural
+DirObjM: Direct object marker
+Art &#124; N-mp: Article :: Noun - masculine plural
+Conj-w &#124; DirObjM: Conjunctive waw :: Direct object marker
+Art &#124; N-fs: Article :: Noun - feminine singular
