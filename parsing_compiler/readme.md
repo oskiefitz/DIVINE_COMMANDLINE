@@ -7,13 +7,13 @@ The verses data looks like this, extracted from Biblehub.com to .txt files:
 e.g. Genesis 1:1 - look from right to left, it's Hebrew text  
 
 
-בְּרֵאשִׁ֖ית
-בָּרָ֣א
-אֱלֹהִ֑ים
-אֵ֥ת
-הַשָּׁמַ֖יִם
-וְאֵ֥ת
-הָאָֽרֶץ׃
+בְּרֵאשִׁ֖ית\
+בָּרָ֣א\
+אֱלֹהִ֑ים\
+אֵ֥ת\
+הַשָּׁמַ֖יִם\
+וְאֵ֥ת\
+הָאָֽרֶץ׃\
 
 \\\\
 
