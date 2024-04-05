@@ -47,7 +47,7 @@ There is data for each verse, the naming convention is:
 ~/Bible_with_Parsing/Genesis/Genesis_Chapter_1_Verse_1_PARSED.txt 
 so = ~/Bible_with_Parsing/[BOOK NAME]/[BOOK NAME]_Chapter_[CHAPTER NUMBER]_Verse_[VERSE NUMBER].txt
 
-Notice here in this path there's no Chapter folder in the path -- I forgot to add that on the initial script but I cba to do it again because there's like 6000 files. 
+Notice here in this path there's no Chapter folder in the path -- I forgot to add that on the initial script but I cba to do it again because there was like 6000 files to generate. But I can change that if its a problem 
 \
 ## TO DO
 
