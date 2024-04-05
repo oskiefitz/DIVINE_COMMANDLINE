@@ -17,7 +17,7 @@ e.g. Genesis 1:1 - look from right to left, it's Hebrew text
 
 \\\\
 
-Each word from the verse is printed in a list, the list is in order. So this verse reads:  
+Each word from the verse is printed in a list, the list is in order, in this instance there are 7 words in this verse. So this verse reads:  
 
 //     [   1 בְּרֵאשִׁ֖ית  2 בָּרָ֣א  3 אֱלֹהִ֑ים 4 אֵ֥ת 5 הַשָּׁמַ֖יִם 6 וְאֵ֥ת  7 הָאָֽרֶץ׃]  //  
 
